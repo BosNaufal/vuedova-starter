@@ -9,8 +9,7 @@
 
 <script>
 
-  import assign from '../../../node_modules/babelify/node_modules/lodash/object/assign.js';
-  global.assign = assign
+  import assign from 'lodash/assign.js';
 
 	export default {
 
