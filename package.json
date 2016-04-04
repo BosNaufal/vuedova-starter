@@ -1,0 +1,23 @@
+{
+  "name": "vuedova-starter",
+  "version": "1.0.1",
+  "description": "VuDova Starter",
+  "main": "assets/js/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BosNaufal/vuedova-starter.git"
+  },
+  "author": "Naufal Rabbani <bosnaufalemail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BosNaufal/vuedova-starter/issues"
+  },
+  "homepage": "https://github.com/BosNaufal/vuedova-starter#readme",
+  "dependencies": {
+    "vue": "^1.0.20",
+    "vue-router": "^0.7.11",
+    "vue-simple-store": "^1.0.0",
+    "vue-tap-outside": "^1.0.0",
+    "vue-touch": "^1.0.2"
+  }
+}
